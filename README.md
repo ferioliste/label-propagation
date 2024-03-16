@@ -4,8 +4,7 @@ This repository contains an implementation of the semi-supervised learning algor
 
 The code was developed for the course "Statistical Machine Learning" at EPFL in the academic year 2023-2024, fall semester.
 
-Check out the final report here: [`ferioli_schmitt_beneventano_report.pdf`](./ferioli_schmitt_beneventano_report.pdf).
-
+Check out the final report here: [`ferioli_schmitt_beneventano_report.pdf`](./ferioli_schmitt_beneventano_report.pdf).\
 A preliminary presentation of our results can be found here: [`ferioli_schmitt_beneventano_presentation.pdf`](./ferioli_schmitt_beneventano_presentation.pdf).
 
 Final grade: 5.5/6
